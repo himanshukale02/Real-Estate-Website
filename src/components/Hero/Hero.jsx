@@ -12,7 +12,7 @@ const Hero = () => {
                         <div className="orange-circle"></div>
                         <h1>Your <br />Gateway to <br />Dream Homes</h1>
                     </div>
-                    <div className="flexColStart hero-des">
+                    <div className="secondaryText flexColStart hero-des">
                         <span>Explore properties based on location, budget, and lifestyle.</span>
                         <span>Experience hassle-free dealings from start to finish.</span>
                     </div>
