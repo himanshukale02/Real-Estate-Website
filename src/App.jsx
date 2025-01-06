@@ -6,6 +6,7 @@ import './App.css'
 import Value from "./components/Value/Value";
 import Contact from "./components/Contact/Contact";
 import Getstarted from "./components/Getstarted/Getstarted";  
+import Footer from "./components/Footer/Footer";
 
   function App() {
     return (
@@ -20,6 +21,7 @@ import Getstarted from "./components/Getstarted/Getstarted";
         <Value />
         <Contact />
         <Getstarted />
+        <Footer />
       </div>
     );
   }
