@@ -5,21 +5,23 @@ import { Residencies } from "./components/Residencies/Residencies";
 import './App.css'
 import Value from "./components/Value/Value";
 import Contact from "./components/Contact/Contact";
+import Getstarted from "./components/Getstarted/Getstarted";  
 
-function App() {
-  return (
-    <div className="App">
-      <div>
-        <div className="white-gradient" />
-        <Header />
-        <Hero />
+  function App() {
+    return (
+      <div className="App">
+        <div>
+          <div className="white-gradient" />
+          <Header />
+          <Hero />
+        </div>
+        <Companies />
+        <Residencies />
+        <Value />
+        <Contact />
+        <Getstarted />
       </div>
-      <Companies />
-      <Residencies />
-      <Value />
-      <Contact />
-    </div>
-  );
-}
+    );
+  }
 
 export default App;
