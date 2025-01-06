@@ -62,7 +62,7 @@ const Contact = () => {
                                     </div>
                                     <div className="flexColStart detail">
                                         <span className='primaryText'>Message</span>
-                                        <span className='secondaryText'>021-7654321</span>
+                                        <span className='secondaryText'>021-5432176</span>
                                     </div>
                                 </div>
                                 <div className="flexCenter button">Message Now</div>
