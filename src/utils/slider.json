@@ -1,38 +1,38 @@
 [
   {
-    "name": "Aliva Priva Jardin",
+    "name": "Aurora Gardens",
     "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "detail": "Sector 15, Dwarka New Delhi - 110075 India",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
+    "name": "Serenity Heights",
     "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "detail": "Navrangpura Ahmedabad, Gujarat - 380009 India",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
+    "name": "Golden Horizon",
     "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "detail": "Juhu, Andheri West Mumbai, Maharashtra - 400049 India",
     "image": "./r3.png"
   },
   {
-    "name": "Aliva Priva Jardin",
+    "name": "Majestic Peaks",
     "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "detail": "Road No. 36 Hyderabad, Telangana - 500033 India",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
+    "name": "Sapphire Grove",
     "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "detail": "Viman Nagar Pune - 411014 Maharashtra, India",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
+    "name": "The Evergreen Court",
     "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "detail": "Kothrud Pune - 411038 Maharashtra, India",
     "image": "./r3.png"
   }
 ]
